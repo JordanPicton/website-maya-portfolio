@@ -12,6 +12,10 @@
   --copper-red: #CA7C4C;
 }
 
+/* ~ ====================================================
+~                               Element Styling
+~                                     Section
+~ ==================================================== */
 html {
   background-color: var(--steel-teal);
   font-family: "Edu VIC WA NT Hand Pre", cursive;
