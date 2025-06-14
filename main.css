@@ -1,0 +1,15 @@
+* {
+  --steel-teal: #578088;
+  --dolphin-gray: #74948C;
+  --light-french-beige: #CFB580;
+  --milk-chocolate: #864E3E;
+  --copper-red: #CA7C4C;
+}
+
+html {
+  background-color: var(--steel-teal);
+}
+
+h1 {
+  font-size: 4rem;
+}
